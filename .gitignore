@@ -209,4 +209,9 @@ __marimo__/
 data/auxl
 data/raw
 data/b3_candles_raw_simpl.csv
-data/b3_candles_raw.csv
+# data/b3_candles_raw.csv
+# data/master_df.parquet
+# data/cache
+output/
+.vscode
+examples/
